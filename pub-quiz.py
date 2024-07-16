@@ -9,8 +9,22 @@ quiz_questions = [
         "answer": "B"
     },
     {
-        "question": "What is 2 + 2?",
-        "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
+        "question": "Which island is in the Caribbean?",
+        "options": ["A) Maui", "B) St Kitts", "C) St Tropez", "D) Ibiza"],
+        "answer": "B"
+    },
+    {
+        "question": "What is 10 + 2?",
+        "options": ["A) 5", "B) 12", "C) 88", "D) 26"],
+        "answer": "B"
+    },
+    {
+        "question": "What is 100 + 53?",
+        "options": ["A) 113", "B) 153"],
+        "answer": "B"
+    },
+        "question": "Is the captital of the Netherlands, Amsterdam?",
+        "options": ["A) True", "B) False"],
         "answer": "B"
     },
     # Learners can add more questions here following the same structure
